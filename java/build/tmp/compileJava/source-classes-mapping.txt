@@ -1,2 +1,0 @@
-rapidapi/WurflRapidApiExample.java
- rapidapi.WurflRapidApiExample
